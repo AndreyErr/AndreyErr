@@ -23,8 +23,6 @@
 [instagram]: https://www.instagram.com/andr5ey/
 
 
-<br />
-
 ## Languages and Tools:
 Frequently-used
 <br />
