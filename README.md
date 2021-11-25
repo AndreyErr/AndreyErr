@@ -4,10 +4,10 @@
 
 ## Contact me:
 
-[<img align="left" alt="C++" width="30px" src="/img/vk.png" style="margin-right:5px;" />][vk]
-[<img align="left" alt="C++" width="30px" src="/img/telegram.png" style="margin-right:5px;" />][telegram]
-[<img align="left" alt="C++" width="30px" src="/img/twitter.png" style="margin-right:5px;" />][twitter]
-[<img align="left" alt="C++" width="30px" src="/img/instagram.png" style="margin-right:5px;" />][instagram]
+<a href="https://vk.com/rlo1999" target="_blank"><img align="left" alt="C++" width="30px" src="/img/vk.png" style="margin-right:5px;" /></a>
+<a href="https://t.me/andrierr" target="_blank"><img align="left" alt="C++" width="30px" src="/img/telegram.png" style="margin-right:5px;" /></a>
+<a href="https://twitter.com/AndreyErr" target="_blank"><img align="left" alt="C++" width="30px" src="/img/twitter.png" style="margin-right:5px;" /></a>
+<a href="https://www.instagram.com/andr5ey/" target="_blank"><img align="left" alt="C++" width="30px" src="/img/instagram.png" style="margin-right:5px;" /></a>
 
 <br />
 <br />
@@ -16,11 +16,6 @@
 
 
 <img align="left" alt="C++" width="30px" src="/img/email.png" style="margin-right:5px;" /> a9165185808@gmail.com
-
-[vk]: https://vk.com/rlo1999
-[telegram]: https://t.me/andrierr
-[twitter]: https://twitter.com/AndreyErr
-[instagram]: https://www.instagram.com/andr5ey/
 
 
 ## Languages and Tools:
