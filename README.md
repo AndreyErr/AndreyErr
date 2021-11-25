@@ -39,8 +39,18 @@ Other
 <img align="left" alt="php" width="30px" src="/img/php.png" style="margin-right:5px;" />
 <img align="left" alt="sql" width="30px" src="/img/sql-file-symbol.png" style="margin-right:5px;" />
 
-<br>
+<br />
 
 Technologies
 <br />
 <img align="left" alt="mysql" width="30px" src="/img/mysql.png" style="margin-right:5px;" />
+
+<br />
+
+<details>
+    <summary>Statistics</summary>
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyErr&count_private=true&show_icons=true&theme=gruvbox&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyerr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
