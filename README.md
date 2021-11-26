@@ -2,6 +2,8 @@
 
 ### 👨‍💻 ___I am currently studying c++ and networking in my spare time___
 
+<h3><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h3>
+
 ## Contact me:
 
 <a href="https://vk.com/rlo1999" target="_blank"><img align="left" alt="C++" width="30px" src="/img/vk.png" style="margin-right:5px;" /></a>
@@ -14,30 +16,19 @@
 
 <img align="left" alt="C++" width="30px" src="/img/dis.svg" style="margin-right:5px;" /> Andri#9226
 
-
 <img align="left" alt="C++" width="30px" src="/img/email.png" style="margin-right:5px;" /> a9165185808@gmail.com
 
+## Frequently-used languages in recent times:
 
-## Languages and Tools:
-Frequently-used
 <br />
+
 <img align="left" alt="C++" width="35px" src="/img/c-logo.png" style="margin-right:5px;" />
 <img align="left" alt="html" width="35px" src="/img/html.png" style="margin-right:5px;" />
 <img align="left" alt="css" width="35px" src="/img/css-3.png" style="margin-right:5px;" />
 
 <br />
 
-Other
-<br />
-<img align="left" alt="js" width="30px" src="/img/java-script.png" style="margin-right:5px;" />
-<img align="left" alt="php" width="30px" src="/img/php.png" style="margin-right:5px;" />
-<img align="left" alt="sql" width="30px" src="/img/sql-file-symbol.png" style="margin-right:5px;" />
-
-<br />
-
-Technologies
-<br />
-<img align="left" alt="mysql" width="30px" src="/img/mysql.png" style="margin-right:5px;" />
+<h5><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h5>
 
 <br />
 
