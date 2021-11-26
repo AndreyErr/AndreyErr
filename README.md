@@ -28,8 +28,6 @@
 
 <h5><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h5>
 
-<br />
-
 <details>
     <summary>Statistics</summary>
     
