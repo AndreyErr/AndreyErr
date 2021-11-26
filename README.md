@@ -29,9 +29,12 @@
 <h5><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h5>
 
 <details>
-    <summary>Statistics</summary>
+<summary>Statistics</summary>
+    
+<br />
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyErr&count_private=true&show_icons=true&theme=gruvbox&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyerr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+    
 </details>
