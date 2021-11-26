@@ -20,8 +20,6 @@
 
 ## Frequently-used languages in recent times:
 
-<br />
-
 <img align="left" alt="C++" width="35px" src="/img/c-logo.png" style="margin-right:5px;" />
 <img align="left" alt="html" width="35px" src="/img/html.png" style="margin-right:5px;" />
 <img align="left" alt="css" width="35px" src="/img/css-3.png" style="margin-right:5px;" />
