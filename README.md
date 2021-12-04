@@ -6,17 +6,18 @@
 
 ## Contact me:
 
-<a href="https://vk.com/rlo1999" target="_blank"><img align="left" alt="C++" width="30px" src="/img/vk.png" style="margin-right:5px;" /></a>
-<a href="https://t.me/andrierr" target="_blank"><img align="left" alt="C++" width="30px" src="/img/telegram.png" style="margin-right:5px;" /></a>
-<a href="https://twitter.com/AndreyErr" target="_blank"><img align="left" alt="C++" width="30px" src="/img/twitter.png" style="margin-right:5px;" /></a>
-<a href="https://www.instagram.com/andr5ey/" target="_blank"><img align="left" alt="C++" width="30px" src="/img/instagram.png" style="margin-right:5px;" /></a>
+<a href="https://vk.com/rlo1999" target="_blank"><img align="left" alt="vk" width="30px" src="/img/vk.png" style="margin-right:5px;" /></a>
+<a href="https://t.me/andrierr" target="_blank"><img align="left" alt="telegram" width="30px" src="/img/telegram.png" style="margin-right:5px;" /></a>
+<a href="https://www.linkedin.com/in/andreyerr/" target="_blank"><img align="left" alt="in" width="30px" src="/img/in.png" style="margin-right:5px;" /></a>
+<a href="https://twitter.com/AndreyErr" target="_blank"><img align="left" alt="twitter" width="30px" src="/img/twitter.png" style="margin-right:5px;" /></a>
+<a href="https://www.instagram.com/andr5ey/" target="_blank"><img align="left" alt="instagram" width="30px" src="/img/instagram.png" style="margin-right:5px;" /></a>
 
 <br />
 <br />
 
-<img align="left" alt="C++" width="30px" src="/img/dis.svg" style="margin-right:5px;" /> Andri#9226
+<img align="left" alt="dis" width="30px" src="/img/dis.svg" style="margin-right:5px;" /> Andri#9226
 
-<img align="left" alt="C++" width="30px" src="/img/email.png" style="margin-right:5px;" /> a9165185808@gmail.com
+<img align="left" alt="email" width="30px" src="/img/email.png" style="margin-right:5px;" /> a9165185808@gmail.com
 
 ## Frequently-used languages in recent times:
 
