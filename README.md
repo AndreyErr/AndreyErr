@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Andrey
 
-### 👨‍💻 ___I am currently studying c++ and networking in my spare time___
+### 👨‍💻 ___I am currently studying c++, puthon and networking in my spare time___
+__I want to start go. And I write a website in php, because I want and can :)__
 
 <h3><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h3>
 
@@ -25,6 +26,7 @@
 <img align="left" alt="html" width="35px" src="/img/html.png" style="margin-right:5px;" />
 <img align="left" alt="css" width="35px" src="/img/css-3.png" style="margin-right:5px;" />
 <img align="left" alt="css" width="35px" src="/img/python.png" style="margin-right:5px;" />
+<img align="left" alt="css" width="35px" src="/img/php.png" style="margin-right:5px;" />
 
 <br />
 
