@@ -39,6 +39,6 @@ __I want to start go. And I write a website in php, because I want and can :)__
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyErr&count_private=true&show_icons=true&theme=gruvbox&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyerr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyerr&layout=compact&theme=gruvbox&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     
 </details>
