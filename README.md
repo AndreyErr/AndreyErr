@@ -11,7 +11,6 @@ __I want to start go. And I write a website in php, because I want and can :)__
 <a href="https://t.me/andrierr" target="_blank"><img align="left" alt="telegram" width="30px" src="/img/telegram.png" style="margin-right:5px;" /></a>
 <a href="https://www.linkedin.com/in/andreyerr/" target="_blank"><img align="left" alt="in" width="30px" src="/img/in.png" style="margin-right:5px;" /></a>
 <a href="https://twitter.com/AndreyErr" target="_blank"><img align="left" alt="twitter" width="30px" src="/img/twitter.png" style="margin-right:5px;" /></a>
-<a href="https://www.instagram.com/andr5ey/" target="_blank"><img align="left" alt="instagram" width="30px" src="/img/instagram.png" style="margin-right:5px;" /></a>
 
 <br />
 <br />
@@ -20,6 +19,9 @@ __I want to start go. And I write a website in php, because I want and can :)__
 
 <img align="left" alt="email" width="30px" src="/img/email.png" style="margin-right:5px;" /> a9165185808@gmail.com
 
+<br />
+There is no link to my <i><b>insta</b></i> with the nickname <i><b>andr5ey</b></i>, since this is an extreme now in Russia :( 
+<br />
 ## Frequently-used languages in recent times:
 
 <img align="left" alt="C++" width="35px" src="/img/c-logo.png" style="margin-right:5px;" />
