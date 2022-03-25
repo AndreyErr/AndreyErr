@@ -3,7 +3,7 @@
 ### 👨‍💻 ___I am currently studying c++, puthon and networking in my spare time___
 __I want to start go. And I write a website in php, because I want and can :)__
 
-<h3><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h3>
+<!--<h3><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h3>-->
 
 ## Contact me:
 
@@ -33,7 +33,7 @@ There is no link to my <i><b>insta</b></i> with the nickname <i><b>andr5ey</b></
 
 <br />
 
-<h5><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h5>
+<!--<h5><a href="https://andreyerr.github.io/" target="_blank">More details about me: https://andreyerr.github.io/</a></h5>-->
 
 <details>
 <summary>Statistics</summary>
