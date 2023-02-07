@@ -6,9 +6,6 @@
 
 ## <a href="https://andreyerr.github.io" target="_blank">https://andreyerr.github.io</a>
 
-<br />
-<br />
-
 ## Contact me:
 
 <a href="https://vk.com/rlo1999" target="_blank"><img align="left" alt="vk" width="30px" src="/img/vk.png" style="margin-right:5px;" /></a>
