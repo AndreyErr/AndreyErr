@@ -19,7 +19,7 @@
 ## Frequently-used languages and technologies in recent times:
 
 <img align="left" alt="php" width="35px" src="/img/php.png" style="margin-right:5px;" />
-<img align="left" alt="C++" width="35px" src="/img/c-logo.png" style="margin-right:5px;" />
+<img align="left" alt="C++" width="35px" src="/img/js.png" style="margin-right:5px;" />
 <img align="left" alt="sql" width="35px" src="/img/sql.png" style="margin-right:5px;" />
 
 <br />
@@ -32,7 +32,5 @@
 <br />
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyErr&count_private=true&show_icons=true&theme=gruvbox&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyerr&exclude_repo=AndreyErr.github.io&layout=compact&theme=gruvbox&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     
 </details>
