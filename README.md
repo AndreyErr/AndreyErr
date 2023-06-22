@@ -21,16 +21,3 @@
 <img align="left" alt="php" width="35px" src="/img/php.png" style="margin-right:5px;" />
 <img align="left" alt="C++" width="35px" src="/img/js.png" style="margin-right:5px;" />
 <img align="left" alt="sql" width="35px" src="/img/sql.png" style="margin-right:5px;" />
-
-<br />
-
-<br />
-
-<details>
-<summary>Statistics</summary>
-    
-<br />
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyErr&count_private=true&show_icons=true&theme=gruvbox&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-    
-</details>
