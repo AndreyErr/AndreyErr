@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Andrey
 
-### 👨‍💻 ___I am currently studying php and networking___
+### 👨‍💻 ___I am currently studying golang___
 
 ## About me:
 
